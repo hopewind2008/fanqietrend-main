@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-12",
-  "prev_date": "2026-10-11",
+  "date": "2026-10-13",
+  "prev_date": "2026-10-12",
   "periods": {
     "7": {
       "period": "近 7 日",
       "source": "rule",
-      "summary": "近 7 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、游戏体育 的新增在读更集中；新书题材上 系统、重生、双洁、甜宠、女配、快穿 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 7 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、游戏体育 的新增在读更集中；新书题材上 系统、重生、双洁、甜宠、女配、快穿 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 7 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、游戏体育 的新增在读更集中；新书题材上 系统、重生、女配、双洁、甜宠、炮灰 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 7 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、游戏体育 的新增在读更集中；新书题材上 系统、重生、女配、双洁、甜宠、炮灰 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
-          "score": 1413000,
-          "new_count": 43,
-          "dropped_count": 43,
+          "score": 1569000,
+          "new_count": 46,
+          "dropped_count": 46,
           "read_count": 84,
-          "read_growth_total": 1413000.0,
+          "read_growth_total": 1569000.0,
           "active_days": 28,
           "lead_category": "豪门总裁",
           "categories": [
@@ -26,11 +26,11 @@
         },
         {
           "name": "幻想言情",
-          "score": 722000,
-          "new_count": 72,
-          "dropped_count": 72,
+          "score": 787000,
+          "new_count": 73,
+          "dropped_count": 73,
           "read_count": 78,
-          "read_growth_total": 722000.0,
+          "read_growth_total": 787000.0,
           "active_days": 28,
           "lead_category": "玄幻言情",
           "categories": [
@@ -42,11 +42,11 @@
         },
         {
           "name": "古风言情",
-          "score": 503000,
+          "score": 561000,
           "new_count": 59,
           "dropped_count": 59,
           "read_count": 78,
-          "read_growth_total": 503000.0,
+          "read_growth_total": 561000.0,
           "active_days": 28,
           "lead_category": "古言脑洞",
           "categories": [
@@ -58,11 +58,11 @@
         },
         {
           "name": "快穿衍生",
-          "score": 430000,
+          "score": 457000,
           "new_count": 20,
           "dropped_count": 20,
           "read_count": 42,
-          "read_growth_total": 430000.0,
+          "read_growth_total": 457000.0,
           "active_days": 14,
           "lead_category": "快穿",
           "categories": [
@@ -71,95 +71,86 @@
           ]
         },
         {
-          "name": "游戏体育",
-          "score": 321364,
-          "new_count": 4,
-          "dropped_count": 14,
-          "read_count": 21,
-          "read_growth_total": 321364.0,
-          "active_days": 7,
-          "lead_category": "游戏体育",
+          "name": "年代民国",
+          "score": 355719,
+          "new_count": 29,
+          "dropped_count": 39,
+          "read_count": 42,
+          "read_growth_total": 355719.0,
+          "active_days": 14,
+          "lead_category": "年代",
           "categories": [
-            "游戏体育"
+            "年代",
+            "民国言情"
           ]
         }
       ],
       "hot_types": [
         {
           "name": "豪门总裁",
-          "score": 473000,
-          "new_count": 7,
-          "dropped_count": 7,
+          "score": 522000,
+          "new_count": 8,
+          "dropped_count": 8,
           "read_count": 21,
-          "read_growth_total": 473000.0,
+          "read_growth_total": 522000.0,
           "active_days": 7
         },
         {
           "name": "现言脑洞",
-          "score": 469000,
-          "new_count": 8,
-          "dropped_count": 8,
+          "score": 489000,
+          "new_count": 9,
+          "dropped_count": 9,
           "read_count": 21,
-          "read_growth_total": 469000.0,
+          "read_growth_total": 489000.0,
           "active_days": 7
         },
         {
           "name": "游戏体育",
-          "score": 321364,
-          "new_count": 4,
-          "dropped_count": 14,
-          "read_count": 21,
-          "read_growth_total": 321364.0,
-          "active_days": 7
-        },
-        {
-          "name": "快穿",
-          "score": 308000,
+          "score": 350034,
           "new_count": 13,
           "dropped_count": 13,
           "read_count": 21,
-          "read_growth_total": 308000.0,
+          "read_growth_total": 350034.0,
           "active_days": 7
         },
         {
           "name": "职场婚恋",
-          "score": 288000,
-          "new_count": 8,
-          "dropped_count": 8,
+          "score": 331000,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
-          "read_growth_total": 288000.0,
+          "read_growth_total": 331000.0,
+          "active_days": 7
+        },
+        {
+          "name": "快穿",
+          "score": 328000,
+          "new_count": 13,
+          "dropped_count": 13,
+          "read_count": 21,
+          "read_growth_total": 328000.0,
           "active_days": 7
         },
         {
           "name": "年代",
-          "score": 276000,
+          "score": 306000,
           "new_count": 22,
           "dropped_count": 22,
           "read_count": 21,
-          "read_growth_total": 276000.0,
+          "read_growth_total": 306000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 24,
-          "category_count": 10
+          "count": 31,
+          "category_count": 12
         },
         {
           "name": "重生",
-          "count": 19,
+          "count": 23,
           "category_count": 11
-        },
-        {
-          "name": "双洁",
-          "count": 19,
-          "category_count": 10
-        },
-        {
-          "name": "甜宠",
-          "count": 18,
-          "category_count": 9
         },
         {
           "name": "女配",
@@ -167,65 +158,75 @@
           "category_count": 8
         },
         {
-          "name": "快穿",
-          "count": 13,
-          "category_count": 3
+          "name": "双洁",
+          "count": 17,
+          "category_count": 10
         },
         {
-          "name": "空间",
-          "count": 12,
-          "category_count": 6
-        },
-        {
-          "name": "直播",
-          "count": 12,
-          "category_count": 5
-        },
-        {
-          "name": "种田",
-          "count": 12,
-          "category_count": 4
+          "name": "甜宠",
+          "count": 16,
+          "category_count": 9
         },
         {
           "name": "炮灰",
-          "count": 11,
+          "count": 15,
           "category_count": 8
         },
         {
+          "name": "快穿",
+          "count": 14,
+          "category_count": 4
+        },
+        {
           "name": "穿书",
-          "count": 11,
+          "count": 12,
           "category_count": 6
         },
         {
           "name": "末世",
-          "count": 11,
+          "count": 12,
+          "category_count": 6
+        },
+        {
+          "name": "空间",
+          "count": 12,
           "category_count": 5
         },
         {
           "name": "反派",
-          "count": 10,
-          "category_count": 6
+          "count": 11,
+          "category_count": 8
         },
         {
           "name": "修仙",
-          "count": 10,
+          "count": 11,
           "category_count": 4
+        },
+        {
+          "name": "无CP",
+          "count": 10,
+          "category_count": 7
+        },
+        {
+          "name": "直播",
+          "count": 10,
+          "category_count": 5
         }
       ]
     },
     "14": {
       "period": "近 14 日",
       "source": "rule",
-      "summary": "近 14 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、快穿 的新增在读更集中；新书题材上 系统、双洁、重生、女配、甜宠、空间 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 14 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、快穿 的新增在读更集中；新书题材上 系统、双洁、重生、女配、甜宠、空间 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 14 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、快穿 的新增在读更集中；新书题材上 系统、重生、双洁、女配、甜宠、穿书 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 14 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、快穿 的新增在读更集中；新书题材上 系统、重生、双洁、女配、甜宠、穿书 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
-          "score": 2278000,
-          "new_count": 79,
-          "dropped_count": 79,
+          "score": 2439000,
+          "new_count": 84,
+          "dropped_count": 84,
           "read_count": 168,
-          "read_growth_total": 2278000.0,
+          "read_growth_total": 2439000.0,
           "active_days": 56,
           "lead_category": "豪门总裁",
           "categories": [
@@ -237,11 +238,11 @@
         },
         {
           "name": "幻想言情",
-          "score": 1213000,
+          "score": 1294000,
           "new_count": 111,
           "dropped_count": 111,
           "read_count": 162,
-          "read_growth_total": 1213000.0,
+          "read_growth_total": 1294000.0,
           "active_days": 56,
           "lead_category": "玄幻言情",
           "categories": [
@@ -253,11 +254,11 @@
         },
         {
           "name": "古风言情",
-          "score": 1172000,
-          "new_count": 119,
-          "dropped_count": 119,
+          "score": 1191000,
+          "new_count": 113,
+          "dropped_count": 113,
           "read_count": 162,
-          "read_growth_total": 1172000.0,
+          "read_growth_total": 1191000.0,
           "active_days": 56,
           "lead_category": "种田",
           "categories": [
@@ -269,11 +270,11 @@
         },
         {
           "name": "快穿衍生",
-          "score": 923000,
-          "new_count": 37,
-          "dropped_count": 37,
+          "score": 906000,
+          "new_count": 34,
+          "dropped_count": 34,
           "read_count": 84,
-          "read_growth_total": 923000.0,
+          "read_growth_total": 906000.0,
           "active_days": 28,
           "lead_category": "快穿",
           "categories": [
@@ -283,11 +284,11 @@
         },
         {
           "name": "年代民国",
-          "score": 638059,
-          "new_count": 50,
-          "dropped_count": 50,
+          "score": 647225,
+          "new_count": 49,
+          "dropped_count": 59,
           "read_count": 84,
-          "read_growth_total": 638059.0,
+          "read_growth_total": 647225.0,
           "active_days": 28,
           "lead_category": "年代",
           "categories": [
@@ -299,94 +300,84 @@
       "hot_types": [
         {
           "name": "豪门总裁",
-          "score": 851000,
+          "score": 893000,
           "new_count": 16,
           "dropped_count": 16,
           "read_count": 42,
-          "read_growth_total": 851000.0,
+          "read_growth_total": 893000.0,
           "active_days": 14
         },
         {
           "name": "现言脑洞",
-          "score": 747000,
-          "new_count": 20,
-          "dropped_count": 20,
+          "score": 785000,
+          "new_count": 21,
+          "dropped_count": 21,
           "read_count": 42,
-          "read_growth_total": 747000.0,
+          "read_growth_total": 785000.0,
           "active_days": 14
         },
         {
           "name": "快穿",
-          "score": 575000,
-          "new_count": 21,
-          "dropped_count": 21,
+          "score": 573000,
+          "new_count": 20,
+          "dropped_count": 20,
           "read_count": 42,
-          "read_growth_total": 575000.0,
+          "read_growth_total": 573000.0,
           "active_days": 14
         },
         {
           "name": "年代",
-          "score": 557000,
+          "score": 564000,
           "new_count": 31,
           "dropped_count": 31,
           "read_count": 42,
-          "read_growth_total": 557000.0,
+          "read_growth_total": 564000.0,
           "active_days": 14
         },
         {
           "name": "职场婚恋",
-          "score": 440000,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 476000,
+          "new_count": 17,
+          "dropped_count": 17,
           "read_count": 42,
-          "read_growth_total": 440000.0,
+          "read_growth_total": 476000.0,
           "active_days": 14
         },
         {
-          "name": "游戏体育",
-          "score": 393624,
-          "new_count": 16,
-          "dropped_count": 26,
-          "read_count": 42,
-          "read_growth_total": 393624.0,
+          "name": "玄幻言情",
+          "score": 437000,
+          "new_count": 47,
+          "dropped_count": 47,
+          "read_count": 36,
+          "read_growth_total": 437000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 48,
+          "count": 56,
           "category_count": 13
         },
         {
-          "name": "双洁",
-          "count": 34,
+          "name": "重生",
+          "count": 37,
           "category_count": 14
         },
         {
-          "name": "重生",
-          "count": 31,
-          "category_count": 14
+          "name": "双洁",
+          "count": 30,
+          "category_count": 13
         },
         {
           "name": "女配",
-          "count": 28,
+          "count": 30,
           "category_count": 11
         },
         {
           "name": "甜宠",
-          "count": 26,
-          "category_count": 11
-        },
-        {
-          "name": "空间",
-          "count": 25,
-          "category_count": 8
-        },
-        {
-          "name": "快穿",
           "count": 23,
-          "category_count": 4
+          "category_count": 10
         },
         {
           "name": "穿书",
@@ -394,50 +385,60 @@
           "category_count": 8
         },
         {
+          "name": "快穿",
+          "count": 22,
+          "category_count": 5
+        },
+        {
+          "name": "空间",
+          "count": 20,
+          "category_count": 6
+        },
+        {
           "name": "末世",
           "count": 19,
           "category_count": 6
         },
         {
+          "name": "炮灰",
+          "count": 17,
+          "category_count": 9
+        },
+        {
+          "name": "修仙",
+          "count": 16,
+          "category_count": 5
+        },
+        {
           "name": "种田",
-          "count": 18,
+          "count": 16,
           "category_count": 4
         },
         {
-          "name": "年代",
-          "count": 17,
-          "category_count": 5
-        },
-        {
-          "name": "反派",
-          "count": 16,
-          "category_count": 8
-        },
-        {
-          "name": "直播",
+          "name": "无CP",
           "count": 15,
-          "category_count": 5
+          "category_count": 9
         },
         {
-          "name": "强制爱",
-          "count": 14,
-          "category_count": 11
+          "name": "年代",
+          "count": 15,
+          "category_count": 3
         }
       ]
     },
     "30": {
       "period": "近 30 日",
       "source": "rule",
-      "summary": "近 30 日里，现代言情、古风言情 的阅读增长更强，具体分类以 豪门总裁、年代、现言脑洞 的新增在读更集中；新书题材上 系统、重生、女配、快穿、双洁、末世 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 30 日里，现代言情、古风言情 的阅读增长更强，具体分类以 豪门总裁、年代、现言脑洞 的新增在读更集中；新书题材上 系统、重生、女配、快穿、双洁、末世 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 30 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、年代 的新增在读更集中；新书题材上 系统、重生、女配、快穿、双洁、末世 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 30 日里，现代言情、幻想言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、年代 的新增在读更集中；新书题材上 系统、重生、女配、快穿、双洁、末世 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
-          "score": 4862000,
-          "new_count": 171,
-          "dropped_count": 171,
+          "score": 4989000,
+          "new_count": 174,
+          "dropped_count": 174,
           "read_count": 360,
-          "read_growth_total": 4862000.0,
+          "read_growth_total": 4989000.0,
           "active_days": 120,
           "lead_category": "豪门总裁",
           "categories": [
@@ -448,28 +449,12 @@
           ]
         },
         {
-          "name": "古风言情",
-          "score": 2130000,
-          "new_count": 246,
-          "dropped_count": 245,
-          "read_count": 354,
-          "read_growth_total": 2130000.0,
-          "active_days": 120,
-          "lead_category": "宫斗宅斗",
-          "categories": [
-            "古风世情",
-            "古言脑洞",
-            "宫斗宅斗",
-            "种田"
-          ]
-        },
-        {
           "name": "幻想言情",
-          "score": 2121000,
-          "new_count": 224,
-          "dropped_count": 224,
+          "score": 2204000,
+          "new_count": 223,
+          "dropped_count": 223,
           "read_count": 354,
-          "read_growth_total": 2121000.0,
+          "read_growth_total": 2204000.0,
           "active_days": 120,
           "lead_category": "玄幻言情",
           "categories": [
@@ -480,12 +465,28 @@
           ]
         },
         {
+          "name": "古风言情",
+          "score": 2199000,
+          "new_count": 243,
+          "dropped_count": 243,
+          "read_count": 354,
+          "read_growth_total": 2199000.0,
+          "active_days": 120,
+          "lead_category": "宫斗宅斗",
+          "categories": [
+            "古风世情",
+            "古言脑洞",
+            "宫斗宅斗",
+            "种田"
+          ]
+        },
+        {
           "name": "快穿衍生",
-          "score": 1993000,
+          "score": 1984000,
           "new_count": 101,
           "dropped_count": 101,
           "read_count": 180,
-          "read_growth_total": 1993000.0,
+          "read_growth_total": 1984000.0,
           "active_days": 60,
           "lead_category": "快穿",
           "categories": [
@@ -495,11 +496,11 @@
         },
         {
           "name": "年代民国",
-          "score": 1496662,
-          "new_count": 106,
-          "dropped_count": 106,
+          "score": 1514307,
+          "new_count": 104,
+          "dropped_count": 114,
           "read_count": 180,
-          "read_growth_total": 1496662.0,
+          "read_growth_total": 1514307.0,
           "active_days": 60,
           "lead_category": "年代",
           "categories": [
@@ -511,129 +512,129 @@
       "hot_types": [
         {
           "name": "豪门总裁",
-          "score": 2265000,
-          "new_count": 35,
-          "dropped_count": 35,
+          "score": 2306000,
+          "new_count": 36,
+          "dropped_count": 36,
           "read_count": 90,
-          "read_growth_total": 2265000.0,
-          "active_days": 30
-        },
-        {
-          "name": "年代",
-          "score": 1323000,
-          "new_count": 66,
-          "dropped_count": 66,
-          "read_count": 90,
-          "read_growth_total": 1323000.0,
+          "read_growth_total": 2306000.0,
           "active_days": 30
         },
         {
           "name": "现言脑洞",
-          "score": 1323000,
+          "score": 1352000,
           "new_count": 46,
           "dropped_count": 46,
           "read_count": 90,
-          "read_growth_total": 1323000.0,
+          "read_growth_total": 1352000.0,
+          "active_days": 30
+        },
+        {
+          "name": "年代",
+          "score": 1337000,
+          "new_count": 65,
+          "dropped_count": 65,
+          "read_count": 90,
+          "read_growth_total": 1337000.0,
           "active_days": 30
         },
         {
           "name": "快穿",
-          "score": 1126000,
+          "score": 1142000,
           "new_count": 53,
           "dropped_count": 53,
           "read_count": 90,
-          "read_growth_total": 1126000.0,
+          "read_growth_total": 1142000.0,
           "active_days": 30
         },
         {
           "name": "女频衍生",
-          "score": 867000,
+          "score": 842000,
           "new_count": 48,
           "dropped_count": 48,
           "read_count": 90,
-          "read_growth_total": 867000.0,
+          "read_growth_total": 842000.0,
           "active_days": 30
         },
         {
           "name": "职场婚恋",
-          "score": 719000,
-          "new_count": 40,
-          "dropped_count": 40,
+          "score": 746000,
+          "new_count": 42,
+          "dropped_count": 42,
           "read_count": 90,
-          "read_growth_total": 719000.0,
+          "read_growth_total": 746000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 101,
+          "count": 111,
           "category_count": 15
         },
         {
           "name": "重生",
-          "count": 66,
+          "count": 71,
           "category_count": 16
         },
         {
           "name": "女配",
-          "count": 54,
-          "category_count": 13
+          "count": 57,
+          "category_count": 12
         },
         {
           "name": "快穿",
-          "count": 50,
-          "category_count": 4
+          "count": 52,
+          "category_count": 5
         },
         {
           "name": "双洁",
-          "count": 45,
+          "count": 42,
           "category_count": 14
         },
         {
           "name": "末世",
-          "count": 39,
+          "count": 40,
           "category_count": 8
         },
         {
-          "name": "甜宠",
-          "count": 37,
-          "category_count": 12
-        },
-        {
-          "name": "空间",
-          "count": 36,
-          "category_count": 9
-        },
-        {
           "name": "穿书",
+          "count": 34,
+          "category_count": 11
+        },
+        {
+          "name": "甜宠",
           "count": 33,
           "category_count": 11
         },
         {
-          "name": "反派",
-          "count": 30,
-          "category_count": 10
+          "name": "空间",
+          "count": 33,
+          "category_count": 9
         },
         {
           "name": "炮灰",
-          "count": 29,
+          "count": 32,
+          "category_count": 12
+        },
+        {
+          "name": "反派",
+          "count": 30,
           "category_count": 12
         },
         {
           "name": "种田",
-          "count": 29,
+          "count": 27,
           "category_count": 6
         },
         {
-          "name": "年代",
-          "count": 25,
-          "category_count": 5
+          "name": "团宠",
+          "count": 26,
+          "category_count": 11
         },
         {
-          "name": "团宠",
-          "count": 23,
-          "category_count": 9
+          "name": "修仙",
+          "count": 24,
+          "category_count": 6
         }
       ]
     },
@@ -645,12 +646,12 @@
       "hot_genres": [
         {
           "name": "现代言情",
-          "score": 35038000,
-          "new_count": 1027,
-          "dropped_count": 1027,
-          "read_count": 2106,
-          "read_growth_total": 35038000.0,
-          "active_days": 708,
+          "score": 35304000,
+          "new_count": 1035,
+          "dropped_count": 1035,
+          "read_count": 2118,
+          "read_growth_total": 35304000.0,
+          "active_days": 712,
           "lead_category": "豪门总裁",
           "categories": [
             "现言脑洞",
@@ -661,12 +662,12 @@
         },
         {
           "name": "古风言情",
-          "score": 15968000,
-          "new_count": 1186,
-          "dropped_count": 1186,
-          "read_count": 2106,
-          "read_growth_total": 15968000.0,
-          "active_days": 708,
+          "score": 16083000,
+          "new_count": 1192,
+          "dropped_count": 1192,
+          "read_count": 2118,
+          "read_growth_total": 16083000.0,
+          "active_days": 712,
           "lead_category": "宫斗宅斗",
           "categories": [
             "古风世情",
@@ -677,12 +678,12 @@
         },
         {
           "name": "幻想言情",
-          "score": 13963000,
-          "new_count": 1029,
-          "dropped_count": 1029,
-          "read_count": 2106,
-          "read_growth_total": 13963000.0,
-          "active_days": 708,
+          "score": 14110000,
+          "new_count": 1035,
+          "dropped_count": 1035,
+          "read_count": 2118,
+          "read_growth_total": 14110000.0,
+          "active_days": 712,
           "lead_category": "玄幻言情",
           "categories": [
             "玄幻言情",
@@ -693,12 +694,12 @@
         },
         {
           "name": "快穿衍生",
-          "score": 10988000,
-          "new_count": 604,
-          "dropped_count": 604,
-          "read_count": 1056,
-          "read_growth_total": 10988000.0,
-          "active_days": 354,
+          "score": 11047000,
+          "new_count": 607,
+          "dropped_count": 607,
+          "read_count": 1062,
+          "read_growth_total": 11047000.0,
+          "active_days": 356,
           "lead_category": "快穿",
           "categories": [
             "快穿",
@@ -707,12 +708,12 @@
         },
         {
           "name": "年代民国",
-          "score": 8287399,
-          "new_count": 564,
-          "dropped_count": 564,
-          "read_count": 1050,
-          "read_growth_total": 8287399.0,
-          "active_days": 354,
+          "score": 8349770,
+          "new_count": 566,
+          "dropped_count": 576,
+          "read_count": 1056,
+          "read_growth_total": 8349770.0,
+          "active_days": 356,
           "lead_category": "年代",
           "categories": [
             "年代",
@@ -723,88 +724,88 @@
       "hot_types": [
         {
           "name": "豪门总裁",
-          "score": 13194000,
-          "new_count": 259,
-          "dropped_count": 259,
-          "read_count": 522,
-          "read_growth_total": 13194000.0,
-          "active_days": 177
+          "score": 13286000,
+          "new_count": 261,
+          "dropped_count": 261,
+          "read_count": 525,
+          "read_growth_total": 13286000.0,
+          "active_days": 178
         },
         {
           "name": "现言脑洞",
-          "score": 10445000,
-          "new_count": 268,
-          "dropped_count": 268,
-          "read_count": 528,
-          "read_growth_total": 10445000.0,
-          "active_days": 177
+          "score": 10509000,
+          "new_count": 270,
+          "dropped_count": 270,
+          "read_count": 531,
+          "read_growth_total": 10509000.0,
+          "active_days": 178
         },
         {
           "name": "青春甜宠",
-          "score": 7362000,
-          "new_count": 241,
-          "dropped_count": 241,
-          "read_count": 528,
-          "read_growth_total": 7362000.0,
-          "active_days": 177
+          "score": 7415000,
+          "new_count": 242,
+          "dropped_count": 242,
+          "read_count": 531,
+          "read_growth_total": 7415000.0,
+          "active_days": 178
         },
         {
           "name": "年代",
-          "score": 6882000,
-          "new_count": 337,
-          "dropped_count": 337,
-          "read_count": 528,
-          "read_growth_total": 6882000.0,
-          "active_days": 177
+          "score": 6936000,
+          "new_count": 339,
+          "dropped_count": 339,
+          "read_count": 531,
+          "read_growth_total": 6936000.0,
+          "active_days": 178
         },
         {
           "name": "快穿",
-          "score": 6436000,
-          "new_count": 307,
-          "dropped_count": 307,
-          "read_count": 528,
-          "read_growth_total": 6436000.0,
-          "active_days": 177
+          "score": 6479000,
+          "new_count": 309,
+          "dropped_count": 309,
+          "read_count": 531,
+          "read_growth_total": 6479000.0,
+          "active_days": 178
         },
         {
           "name": "宫斗宅斗",
-          "score": 5267000,
-          "new_count": 306,
-          "dropped_count": 306,
-          "read_count": 528,
-          "read_growth_total": 5267000.0,
-          "active_days": 177
+          "score": 5301000,
+          "new_count": 307,
+          "dropped_count": 307,
+          "read_count": 531,
+          "read_growth_total": 5301000.0,
+          "active_days": 178
         }
       ],
       "hot_themes": [
         {
           "name": "快穿",
-          "count": 248,
+          "count": 251,
           "category_count": 9
         },
         {
           "name": "重生",
-          "count": 216,
+          "count": 221,
           "category_count": 17
         },
         {
           "name": "系统",
-          "count": 190,
+          "count": 200,
           "category_count": 15
         },
         {
           "name": "女配",
-          "count": 187,
+          "count": 190,
           "category_count": 15
         },
         {
           "name": "末世",
-          "count": 127,
+          "count": 129,
           "category_count": 10
         },
         {
           "name": "炮灰",
-          "count": 122,
+          "count": 126,
           "category_count": 16
         },
         {
@@ -813,14 +814,14 @@
           "category_count": 17
         },
         {
-          "name": "空间",
-          "count": 84,
-          "category_count": 10
+          "name": "团宠",
+          "count": 83,
+          "category_count": 14
         },
         {
-          "name": "团宠",
-          "count": 80,
-          "category_count": 14
+          "name": "空间",
+          "count": 83,
+          "category_count": 11
         },
         {
           "name": "星际",
@@ -828,24 +829,24 @@
           "category_count": 6
         },
         {
-          "name": "年代",
-          "count": 71,
-          "category_count": 7
-        },
-        {
           "name": "穿书",
           "count": 70,
           "category_count": 14
         },
         {
-          "name": "双洁",
-          "count": 66,
-          "category_count": 15
+          "name": "年代",
+          "count": 70,
+          "category_count": 7
         },
         {
           "name": "强制爱",
-          "count": 64,
-          "category_count": 15
+          "count": 62,
+          "category_count": 14
+        },
+        {
+          "name": "逃荒",
+          "count": 62,
+          "category_count": 3
         }
       ]
     }
